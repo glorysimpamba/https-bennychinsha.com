@@ -2,7 +2,10 @@
  <html lang="en"> 
   <head>
     <Style>
-      #main-heading{font-family:impact; colour:green;}
+      #main-heading{font-family:impact; color:green;}
+    </Style>
+   </head>
   <body>
     <h1 id="main-heading">BENNY CHISHA</h1>
-  
+   </body>
+ </html>
